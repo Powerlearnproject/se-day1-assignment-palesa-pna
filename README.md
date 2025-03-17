@@ -157,6 +157,7 @@ Software Accessibility and Usability - Overly complex software can frustrate or 
 Solution: Use scalable architecture, Emphasize reliability.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
  Integration tests - verify that different modules or services used by your application work well together.
  - help to ensure data flows smoothly between modules and interfaces work as expected.
